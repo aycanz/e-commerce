@@ -1,0 +1,17 @@
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\bin\Debug\net8.0\BusinnessLayer.deps.json
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\bin\Debug\net8.0\BusinnessLayer.dll
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\bin\Debug\net8.0\BusinnessLayer.pdb
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\bin\Debug\net8.0\DataAccesesLayer.dll
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\bin\Debug\net8.0\DataAccesesLayer.pdb
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.csproj.AssemblyReference.cache
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.AssemblyInfoInputs.cache
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.AssemblyInfo.cs
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.csproj.CopyComplete
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.dll
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\refint\BusinnessLayer.dll
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.pdb
+C:\Users\aycan\source\repos\deneme\BusinnessLayer\obj\Debug\net8.0\ref\BusinnessLayer.dll

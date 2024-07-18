@@ -1,0 +1,17 @@
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\bin\Debug\net8.0\DataAccesesLayer.deps.json
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\bin\Debug\net8.0\DataAccesesLayer.runtimeconfig.json
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\bin\Debug\net8.0\DataAccesesLayer.dll
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\bin\Debug\net8.0\DataAccesesLayer.pdb
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.csproj.AssemblyReference.cache
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.AssemblyInfoInputs.cache
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.AssemblyInfo.cs
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.csproj.CoreCompileInputs.cache
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.csproj.CopyComplete
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.dll
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\refint\DataAccesesLayer.dll
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.pdb
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\DataAccesesLayer.genruntimeconfig.cache
+C:\Users\aycan\source\repos\deneme\DataAccesesLayer\obj\Debug\net8.0\ref\DataAccesesLayer.dll
